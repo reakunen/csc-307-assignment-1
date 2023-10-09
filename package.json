@@ -8,10 +8,12 @@
     },
     "author": "",
     "license": "ISC",
-    "dependencies": {
+    "dependencies": { 
         "cors": "^2.8.5",
         "create-react-app": "^1.5.2",
         "express": "^4.18.2"
     },
-    "description": ""
+    "description": "",
+    "type": "module"
+
 }
